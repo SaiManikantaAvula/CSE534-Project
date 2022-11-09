@@ -16,6 +16,5 @@ Once the dataset is download, unzip the `.npz` file and copy the extracted files
 
 ## Contributors
 Jimit Dholakia - [jimit105](https://github.com/jimit105)  
-Yasharth Sharma - [Yasharthsh](https://github.com/Yasharthsh)  
 Sai Manikanta Avula - [SaiManikantaAvula](https://github.com/SaiManikantaAvula)
 
